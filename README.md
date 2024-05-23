@@ -30,6 +30,7 @@ To accelerate the transportation research by bringing  mass data to researcher a
 ### Carla HUD design 
 ### Data Annotation and Cleaning
 ## Algorithm
+### Traffic Safety Parameters Calculation
 ### Driver Status Awearness
 
 # Hardware
